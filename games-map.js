@@ -82,7 +82,7 @@ window.GAME_URLS = {
   "codex-80": { url: "https://zilagames.online/blog/dvjze7/", hasOwnPlay: false },
   "codex-81": { url: "https://zilagames.online/blog/zyyto9/", hasOwnPlay: false },
   "codex-82": { url: "https://zilagames.online/blog/4jq4gy/", hasOwnPlay: false },
-  "codex-83": { url: "https://zilagames.online/blog/4jq4gy/", hasOwnPlay: false },
+  "codex-83": { url: "https://zilagames.online/blog/cs91rg/", hasOwnPlay: false },
   "codex-84": { url: "https://zilagames.online/blog/mo9uep/", hasOwnPlay: false },
   "codex-85": { url: "https://zilagames.online/blog/uc4lca/", hasOwnPlay: false },
   "codex-86": { url: "https://zilagames.online/blog/8thrk0/", hasOwnPlay: false },
